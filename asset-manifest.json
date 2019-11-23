@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-pwa/static/css/main.b100e6da.chunk.css",
-    "main.js": "/react-pwa/static/js/main.adeed7ec.chunk.js",
-    "main.js.map": "/react-pwa/static/js/main.adeed7ec.chunk.js.map",
+    "main.js": "/react-pwa/static/js/main.71f95595.chunk.js",
+    "main.js.map": "/react-pwa/static/js/main.71f95595.chunk.js.map",
     "runtime-main.js": "/react-pwa/static/js/runtime-main.f69c1d25.js",
     "runtime-main.js.map": "/react-pwa/static/js/runtime-main.f69c1d25.js.map",
-    "static/js/2.c2b5b8b1.chunk.js": "/react-pwa/static/js/2.c2b5b8b1.chunk.js",
-    "static/js/2.c2b5b8b1.chunk.js.map": "/react-pwa/static/js/2.c2b5b8b1.chunk.js.map",
+    "static/js/2.163b9827.chunk.js": "/react-pwa/static/js/2.163b9827.chunk.js",
+    "static/js/2.163b9827.chunk.js.map": "/react-pwa/static/js/2.163b9827.chunk.js.map",
     "index.html": "/react-pwa/index.html",
-    "precache-manifest.b412b75cea1b115cc22b7505216e16e9.js": "/react-pwa/precache-manifest.b412b75cea1b115cc22b7505216e16e9.js",
+    "precache-manifest.20b66fbe57eaacd1b9532cd19d5813ee.js": "/react-pwa/precache-manifest.20b66fbe57eaacd1b9532cd19d5813ee.js",
     "service-worker.js": "/react-pwa/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/react-pwa/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/react-pwa/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f69c1d25.js",
-    "static/js/2.c2b5b8b1.chunk.js",
+    "static/js/2.163b9827.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.adeed7ec.chunk.js"
+    "static/js/main.71f95595.chunk.js"
   ]
 }
